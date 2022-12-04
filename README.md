@@ -1,4 +1,7 @@
 # pager
+Vue CLIでのページャー実装例
+Apiはconnpass APIを使用
+[https://connpass.com/about/api/](https://connpass.com/about/api/)
 
 ## Project setup
 ```
